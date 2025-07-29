@@ -18,6 +18,7 @@ public class Star32 {
 	            }
 	            System.out.println();
 	        }
+		 sc.close();
 	}
 
 }

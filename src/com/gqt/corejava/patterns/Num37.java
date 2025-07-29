@@ -21,6 +21,7 @@ public class Num37 {
             }
             System.out.println();
         }
+		sc.close();
 	}
 
 }

@@ -22,6 +22,7 @@ public class Alpha35 {
 	            }
 	            System.out.println();
 	        }
+		 sc.close();
 	}
 
 }
