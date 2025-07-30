@@ -1,4 +1,4 @@
-r5package com.gqt.corejava.Alphabets;
+package com.gqt.corejava.Alphabets;
 
 import java.util.Scanner;
 
